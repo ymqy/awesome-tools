@@ -1,5 +1,8 @@
 # awesome-tools
 
+## Debug
+- [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
+
 ## Record
 - [asciinema](https://asciinema.org/) - Record and share your terminal sessions, the right way.
 
