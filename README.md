@@ -14,3 +14,6 @@
 
 ## RSS
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+
+## Media Process
+- [extract-video-keyframe](https://github.com/minqukanq/extract-video-keyframe) - Extracts the keyframes in videos for processing/storage elsewhere.
