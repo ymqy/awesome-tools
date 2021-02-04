@@ -21,4 +21,9 @@
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 
 ## Media Process
+- [网易见外](https://jianwai.youdao.com/)
+- [Convertio](https://convertio.co/zh/) - 将您的文件转换成任意格式
 - [extract-video-keyframe](https://github.com/minqukanq/extract-video-keyframe) - Extracts the keyframes in videos for processing/storage elsewhere.
+
+## Language
+- [DeepL Translate](https://www.deepl.com/translator) - AI Assistance for Language
