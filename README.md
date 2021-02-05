@@ -1,5 +1,9 @@
 # awesome-tools
 
+## Search
+- [百度开发者搜索](https://kaifa.baidu.com/home)
+- [Yandex](https://yandex.com/)
+
 ## Code Visualization
 - [lambda-view](https://github.com/Jianru-Lin/lambda-view) - A New Tool for Reading JavaScript Code since 2017
 - [regexper](https://regexper.com/) - Regular Expression Visualization Site (static site version)
