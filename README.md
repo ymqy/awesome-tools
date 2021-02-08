@@ -35,3 +35,7 @@
 ## ✈️
 - [yibu](https://www.yibu.online/)
 - [sockboom](https://sockboom.art/)
+
+# Download
+- [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+- [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
