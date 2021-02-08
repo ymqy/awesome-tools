@@ -31,3 +31,7 @@
 
 ## Language
 - [DeepL Translate](https://www.deepl.com/translator) - AI Assistance for Language
+
+## ✈️
+- [yibu](https://www.yibu.online/)
+- [sockboom](https://sockboom.art/)
