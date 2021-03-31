@@ -1,5 +1,8 @@
 # awesome-tools
 
+## Developer Tools
+- [Responsively App](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+
 ## Search
 - [百度开发者搜索](https://kaifa.baidu.com/home)
 - [Yandex](https://yandex.com/)
